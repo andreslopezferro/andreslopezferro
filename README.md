@@ -19,6 +19,6 @@ I'm a passionate software developer with over 10 years of experience, and I have
 
 ## Get in Touch
 
-If you want to connect, collaborate, or simply chat about technology, feel free to reach out. You can find me on [LinkedIn](https://www.linkedin.com/in/andreslopezferro/), where I share my thoughts on the tech industry, or on [my web site](https://andreslopezferro.com), where I share some information and thoughts about software development.
+If you want to connect, collaborate, or simply chat about technology, feel free to reach out. You can find me on [LinkedIn](https://www.linkedin.com/in/andreslopezferro/), where I share my thoughts on the tech industry, or on my [web site](https://andreslopezferro.com), where I share some information and thoughts about software development.
 
 Let's make a positive impact together!
